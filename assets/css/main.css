@@ -56,6 +56,18 @@
 		box-sizing: border-box;
 	}
 
+
+	.skill-title{
+		text-align: center;
+		background: #f3f6f8;
+		border-radius: 5px;
+		border: 1px solid rgba(0, 0, 0, .15);
+		padding: 4px 8px 8px;
+		font-weight: 340;
+		color: black;
+	}
+
+
 /* Containers */
 
 	.container {
